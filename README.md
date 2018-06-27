@@ -28,7 +28,7 @@
 <a id="Components"></a>
 ## Материалы и компоненты
   - [Arduino NANO](http://ali.pub/20o36t)
-  - Приемник аппаратуры Flysky - **[FS-iA6B!!!]**(http://ali.pub/1exhys)
+  - Приемник аппаратуры Flysky - **[FS-iA6B!!!](http://ali.pub/1exhys)**
   - Провода для Ардуино или 3-проводной шлейф - можно поискать на Алиэкспрессе
   
 <a id="FAQ"></a>
